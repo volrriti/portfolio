@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,27925,e=>{"use strict";var t=e.i(43476);function c(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("div",{className:"flex justify-center items-center h-screen",children:"coming soon..."})})}e.s(["default",()=>c])}]);
